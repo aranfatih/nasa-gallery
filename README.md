@@ -1,6 +1,6 @@
 # Nasa Gallery
 * Live search of images using NASA API
-* [Click here](http://95.179.240.63:2020/) For live demo (Mobile View Only)
+* [Click here](http://95.179.240.63:5151/) For live demo
 
 # How it works
 
