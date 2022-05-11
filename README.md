@@ -19,7 +19,7 @@
 
 # Screenshots
 <div style="display: flex">
-  <img src="https://smart.brwskagroup.com:2323/public/uploads/nasa1.png" style="width: 200px"/>
+  <img src="https://smart.brwskagroup.com:2323/public/uploads/nasa1.png" style="width: 400px"/>
   <div style="width: 24px"/>
-  <img src="https://smart.brwskagroup.com:2323/public/uploads/nasa2.png" style="width: 200px"/>
+  <img src="https://smart.brwskagroup.com:2323/public/uploads/nasa2.png" style="width: 400px"/>
 </div>
