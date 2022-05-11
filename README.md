@@ -17,3 +17,9 @@
 * Once searched, then view result cards below the search input section
 * Stories have image, title, description and tags
 
+# Screenshots
+<div style="display: flex">
+  <img src="https://smart.brwskagroup.com:2323/public/uploads/nasa1.jpg" style="width: 200px"/>
+  <div style="width: 24px"/>
+  <img src="https://smart.brwskagroup.com:2323/public/uploads/nasa2.jpg" style="width: 200px"/>
+</div>
