@@ -1,0 +1,20 @@
+.feed-wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 80px 100px;
+    box-sizing: border-box;
+}
+
+.feed-card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.feed-card {
+    margin:  12px;
+    text-align: start;
+}

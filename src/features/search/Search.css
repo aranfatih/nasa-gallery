@@ -1,0 +1,29 @@
+.search-wrapper {
+    position: relative;
+}
+
+.search-handler-wrapper {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    color: white;
+    text-align: start;
+}
+
+.search-handler-container {
+    position: absolute;
+    z-index: 1;
+    bottom: 240px;
+    width: 600px;
+}
+
+.search-handler-wrapper h1 {
+    font-size: 2.6em;
+    margin: 0;
+}
+
+.search-input {
+    background-color: #ffffffe8;
+    border-radius: 4px;
+}
